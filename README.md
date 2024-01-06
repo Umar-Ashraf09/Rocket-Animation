@@ -14,6 +14,7 @@ Welcome to the Rocket Animation web page! This simple and charming animation fea
 
 ## Preview
 
+![Rocket Animation](https://github.com/Umar-Ashraf09/Rocket-Animation/assets/92431008/3c930b02-990a-4d9b-bba3-6fa29856222a)
 
 
 ## Technologies Used
